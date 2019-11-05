@@ -43,7 +43,7 @@
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="rex" revision="10" />
   <project path="frameworks/av" name="android_frameworks_av" remote="rex" revision="10" />
   <project path="frameworks/native" name="android_frameworks_native" remote="rex" revision="10" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="rex" revision="10" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="rex" revision="10-new5" />
   <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="rex" revision="10" />
 
   <!-- Device -->
@@ -79,7 +79,7 @@
   <project path="packages/apps/CustomDoze" name="android_packages_apps_CustomDoze" remote="rex" revision="10" />
   <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="rex" revision="10" />
   <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="rex" revision="10" />
-  <project path="packages/apps/DU-Tweaks" name="android_packages_apps_DU-Tweaks" remote="rex" revision="10" />
+  <project path="packages/apps/DU-Tweaks" name="android_packages_apps_DU-Tweaks" remote="rex" revision="10-new1" />
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="rex" revision="10" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="rex" revision="10" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="rex" revision="10" />
@@ -99,7 +99,7 @@
   <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="rex" revision="10" />
   <project path="vendor/qcom/opensource/power" name="android_vendor_qcom_opensource_power" remote="rex" revision="10" />
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="rex" revision="10" />
-  <project path="vendor/themes" name="android_vendor_themes" remote="rex" revision="10" />
+  <project path="vendor/themes" name="android_vendor_themes" remote="rex" revision="10-new" />
   <project path="vendor/du" name="android_vendor_du" remote="rex" revision="10"/>
 
 </manifest>
